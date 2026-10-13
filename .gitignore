@@ -1,9 +1,21 @@
-﻿/library/
+
+# Cocos Creator generated folders
+/library/
 /temp/
 /local/
 /build/
 /profiles/
+
+# Dependencies
 /node_modules/
+
+# Logs
 *.log
-.DS_Store
+
+# Windows and macOS
 Thumbs.db
+.DS_Store
+
+# VS Code local settings
+.vscode/*
+!.vscode/extensions.json
