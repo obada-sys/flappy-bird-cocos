@@ -21,14 +21,15 @@ This is a collaborative learning project created by two students studying Softwa
 
 ## Planned Features
 
-- [ ] Introduction
-- [ ] Preparation 
-- [ ] Make the Brains
-- [ ] Building Points
-- [ ] Make the Bird Fly
-- [ ] Pipes with Prefabs
-- [ ] Hit Detection
-- [ ] Sound effects
+1. Introduction - DONE - OBADA
+2. Preparation - DONE - OBADA
+3. Building the Ground - DONE - OBADA
+4. Make the Brains
+5. Building Points
+6. Make the Bird Fly
+7. Pipes with Prefabs
+8. Hit Detection
+9. Sound effects
 
 ## Development
 
